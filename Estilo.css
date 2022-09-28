@@ -61,6 +61,7 @@ button {
 
 button:hover{
     background-color: hwb(159 30% 35%);
+    cursor: pointer;
 }
 
 button:active{
